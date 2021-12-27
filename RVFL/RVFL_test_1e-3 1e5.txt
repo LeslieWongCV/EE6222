@@ -1,0 +1,13 @@
+chess-krvkp:0.9464006259780907   best C = 0.01
+statlog-german-credit:0.7475   best C = 0.01
+car:0.9189348244952668   best C = 1000.0
+molec-biol-splice:0.8025078369905954   best C = 0.01
+ozone:0.9684418145956608   best C = 0.001
+abalone:0.6647662808354582   best C = 1
+statlog-image:0.66476536796536796   best C = 100.0
+cardiotocography-3clases:0.8994117647058825   best C = 1000.0
+bank:0.8954646017699115   best C = 100000.0
+plant-shape:0.51953125   best C = 10.0
+semeion:0.8783368821592633   best C = 0.001
+
+
